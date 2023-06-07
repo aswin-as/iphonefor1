@@ -14,7 +14,9 @@ html{
     background-size: cover;
     position: relative;
 }
-
+body{
+    text-align: justify;
+    }
 
 
 nav{
